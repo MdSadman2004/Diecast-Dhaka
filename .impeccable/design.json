@@ -1,0 +1,510 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-06T05:31:52.996592Z",
+  "title": "Design System: Diecast Dhaka",
+  "extensions": {
+    "colorMeta": {
+      "primary": {
+        "role": "primary",
+        "displayName": "Racing Orange",
+        "canonical": "#f36b28",
+        "tonalRamp": [
+          "oklch(15.000% 0.18358 43.159)",
+          "oklch(26.429% 0.18358 43.159)",
+          "oklch(37.857% 0.18358 43.159)",
+          "oklch(49.286% 0.18358 43.159)",
+          "oklch(60.714% 0.18358 43.159)",
+          "oklch(72.143% 0.18358 43.159)",
+          "oklch(83.571% 0.18358 43.159)",
+          "oklch(95.000% 0.18358 43.159)"
+        ]
+      },
+      "primary-hover": {
+        "role": "primary",
+        "displayName": "Hot Track Highlight",
+        "canonical": "#ff8a43",
+        "tonalRamp": [
+          "oklch(15.000% 0.16454 49.142)",
+          "oklch(26.429% 0.16454 49.142)",
+          "oklch(37.857% 0.16454 49.142)",
+          "oklch(49.286% 0.16454 49.142)",
+          "oklch(60.714% 0.16454 49.142)",
+          "oklch(72.143% 0.16454 49.142)",
+          "oklch(83.571% 0.16454 49.142)",
+          "oklch(95.000% 0.16454 49.142)"
+        ]
+      },
+      "orange-dark": {
+        "role": "primary",
+        "displayName": "Burnt Orange",
+        "canonical": "#a53b0a",
+        "tonalRamp": [
+          "oklch(15.000% 0.14967 40.233)",
+          "oklch(26.429% 0.14967 40.233)",
+          "oklch(37.857% 0.14967 40.233)",
+          "oklch(49.286% 0.14967 40.233)",
+          "oklch(60.714% 0.14967 40.233)",
+          "oklch(72.143% 0.14967 40.233)",
+          "oklch(83.571% 0.14967 40.233)",
+          "oklch(95.000% 0.14967 40.233)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Garage Ink",
+        "canonical": "#222824",
+        "tonalRamp": [
+          "oklch(15.000% 0.01127 156.386)",
+          "oklch(26.429% 0.01127 156.386)",
+          "oklch(37.857% 0.01127 156.386)",
+          "oklch(49.286% 0.01127 156.386)",
+          "oklch(60.714% 0.01127 156.386)",
+          "oklch(72.143% 0.01127 156.386)",
+          "oklch(83.571% 0.01127 156.386)",
+          "oklch(95.000% 0.01127 156.386)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted Mechanic Gray",
+        "canonical": "#646c64",
+        "tonalRamp": [
+          "oklch(15.000% 0.01575 145.345)",
+          "oklch(26.429% 0.01575 145.345)",
+          "oklch(37.857% 0.01575 145.345)",
+          "oklch(49.286% 0.01575 145.345)",
+          "oklch(60.714% 0.01575 145.345)",
+          "oklch(72.143% 0.01575 145.345)",
+          "oklch(83.571% 0.01575 145.345)",
+          "oklch(95.000% 0.01575 145.345)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Inventory Paper",
+        "canonical": "#f6f5f0",
+        "tonalRamp": [
+          "oklch(15.000% 0.00671 97.352)",
+          "oklch(26.429% 0.00671 97.352)",
+          "oklch(37.857% 0.00671 97.352)",
+          "oklch(49.286% 0.00671 97.352)",
+          "oklch(60.714% 0.00671 97.352)",
+          "oklch(72.143% 0.00671 97.352)",
+          "oklch(83.571% 0.00671 97.352)",
+          "oklch(95.000% 0.00671 97.352)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Bench Rule",
+        "canonical": "#dedfd7",
+        "tonalRamp": [
+          "oklch(15.000% 0.01080 112.386)",
+          "oklch(26.429% 0.01080 112.386)",
+          "oklch(37.857% 0.01080 112.386)",
+          "oklch(49.286% 0.01080 112.386)",
+          "oklch(60.714% 0.01080 112.386)",
+          "oklch(72.143% 0.01080 112.386)",
+          "oklch(83.571% 0.01080 112.386)",
+          "oklch(95.000% 0.01080 112.386)"
+        ]
+      },
+      "stage": {
+        "role": "neutral",
+        "displayName": "Graphite Studio",
+        "canonical": "#202523",
+        "tonalRamp": [
+          "oklch(15.000% 0.00812 169.696)",
+          "oklch(26.429% 0.00812 169.696)",
+          "oklch(37.857% 0.00812 169.696)",
+          "oklch(49.286% 0.00812 169.696)",
+          "oklch(60.714% 0.00812 169.696)",
+          "oklch(72.143% 0.00812 169.696)",
+          "oklch(83.571% 0.00812 169.696)",
+          "oklch(95.000% 0.00812 169.696)"
+        ]
+      },
+      "inspection-stage": {
+        "role": "neutral",
+        "displayName": "Olive Inspection Bay",
+        "canonical": "#30392d",
+        "tonalRamp": [
+          "oklch(15.000% 0.02396 137.897)",
+          "oklch(26.429% 0.02396 137.897)",
+          "oklch(37.857% 0.02396 137.897)",
+          "oklch(49.286% 0.02396 137.897)",
+          "oklch(60.714% 0.02396 137.897)",
+          "oklch(72.143% 0.02396 137.897)",
+          "oklch(83.571% 0.02396 137.897)",
+          "oklch(95.000% 0.02396 137.897)"
+        ]
+      },
+      "image-bench": {
+        "role": "neutral",
+        "displayName": "Thumbnail Bench",
+        "canonical": "#e9ebe3",
+        "tonalRamp": [
+          "oklch(15.000% 0.01085 118.030)",
+          "oklch(26.429% 0.01085 118.030)",
+          "oklch(37.857% 0.01085 118.030)",
+          "oklch(49.286% 0.01085 118.030)",
+          "oklch(60.714% 0.01085 118.030)",
+          "oklch(72.143% 0.01085 118.030)",
+          "oklch(83.571% 0.01085 118.030)",
+          "oklch(95.000% 0.01085 118.030)"
+        ]
+      },
+      "secondary-surface": {
+        "role": "neutral",
+        "displayName": "Secondary Surface",
+        "canonical": "#e4e7de",
+        "tonalRamp": [
+          "oklch(15.000% 0.01243 121.710)",
+          "oklch(26.429% 0.01243 121.710)",
+          "oklch(37.857% 0.01243 121.710)",
+          "oklch(49.286% 0.01243 121.710)",
+          "oklch(60.714% 0.01243 121.710)",
+          "oklch(72.143% 0.01243 121.710)",
+          "oklch(83.571% 0.01243 121.710)",
+          "oklch(95.000% 0.01243 121.710)"
+        ]
+      },
+      "secondary-hover": {
+        "role": "neutral",
+        "displayName": "Secondary Hover",
+        "canonical": "#d0d6ca",
+        "tonalRamp": [
+          "oklch(15.000% 0.01751 128.687)",
+          "oklch(26.429% 0.01751 128.687)",
+          "oklch(37.857% 0.01751 128.687)",
+          "oklch(49.286% 0.01751 128.687)",
+          "oklch(60.714% 0.01751 128.687)",
+          "oklch(72.143% 0.01751 128.687)",
+          "oklch(83.571% 0.01751 128.687)",
+          "oklch(95.000% 0.01751 128.687)"
+        ]
+      },
+      "action-ink": {
+        "role": "neutral",
+        "displayName": "Action Ink",
+        "canonical": "#1c241f",
+        "tonalRamp": [
+          "oklch(15.000% 0.01481 157.722)",
+          "oklch(26.429% 0.01481 157.722)",
+          "oklch(37.857% 0.01481 157.722)",
+          "oklch(49.286% 0.01481 157.722)",
+          "oklch(60.714% 0.01481 157.722)",
+          "oklch(72.143% 0.01481 157.722)",
+          "oklch(83.571% 0.01481 157.722)",
+          "oklch(95.000% 0.01481 157.722)"
+        ]
+      },
+      "field-surface": {
+        "role": "neutral",
+        "displayName": "Field Surface",
+        "canonical": "#fdfef8",
+        "tonalRamp": [
+          "oklch(15.000% 0.00794 114.214)",
+          "oklch(26.429% 0.00794 114.214)",
+          "oklch(37.857% 0.00794 114.214)",
+          "oklch(49.286% 0.00794 114.214)",
+          "oklch(60.714% 0.00794 114.214)",
+          "oklch(72.143% 0.00794 114.214)",
+          "oklch(83.571% 0.00794 114.214)",
+          "oklch(95.000% 0.00794 114.214)"
+        ]
+      },
+      "field-border": {
+        "role": "neutral",
+        "displayName": "Field Border",
+        "canonical": "#c8d0bc",
+        "tonalRamp": [
+          "oklch(15.000% 0.02856 124.834)",
+          "oklch(26.429% 0.02856 124.834)",
+          "oklch(37.857% 0.02856 124.834)",
+          "oklch(49.286% 0.02856 124.834)",
+          "oklch(60.714% 0.02856 124.834)",
+          "oklch(72.143% 0.02856 124.834)",
+          "oklch(83.571% 0.02856 124.834)",
+          "oklch(95.000% 0.02856 124.834)"
+        ]
+      },
+      "filter-active-text": {
+        "role": "neutral",
+        "displayName": "Active Filter Text",
+        "canonical": "#f5f6ed",
+        "tonalRamp": [
+          "oklch(15.000% 0.01192 111.755)",
+          "oklch(26.429% 0.01192 111.755)",
+          "oklch(37.857% 0.01192 111.755)",
+          "oklch(49.286% 0.01192 111.755)",
+          "oklch(60.714% 0.01192 111.755)",
+          "oklch(72.143% 0.01192 111.755)",
+          "oklch(83.571% 0.01192 111.755)",
+          "oklch(95.000% 0.01192 111.755)"
+        ]
+      },
+      "close-surface": {
+        "role": "neutral",
+        "displayName": "Close Surface",
+        "canonical": "#f4f6ed",
+        "tonalRamp": [
+          "oklch(15.000% 0.01206 116.806)",
+          "oklch(26.429% 0.01206 116.806)",
+          "oklch(37.857% 0.01206 116.806)",
+          "oklch(49.286% 0.01206 116.806)",
+          "oklch(60.714% 0.01206 116.806)",
+          "oklch(72.143% 0.01206 116.806)",
+          "oklch(83.571% 0.01206 116.806)",
+          "oklch(95.000% 0.01206 116.806)"
+        ]
+      },
+      "record-surface": {
+        "role": "neutral",
+        "displayName": "Record Surface",
+        "canonical": "#e2e8d7",
+        "tonalRamp": [
+          "oklch(15.000% 0.02354 122.741)",
+          "oklch(26.429% 0.02354 122.741)",
+          "oklch(37.857% 0.02354 122.741)",
+          "oklch(49.286% 0.02354 122.741)",
+          "oklch(60.714% 0.02354 122.741)",
+          "oklch(72.143% 0.02354 122.741)",
+          "oklch(83.571% 0.02354 122.741)",
+          "oklch(95.000% 0.02354 122.741)"
+        ]
+      },
+      "error": {
+        "role": "semantic",
+        "displayName": "Validation Red",
+        "canonical": "#a02f17",
+        "tonalRamp": [
+          "oklch(15.000% 0.15300 33.522)",
+          "oklch(26.429% 0.15300 33.522)",
+          "oklch(37.857% 0.15300 33.522)",
+          "oklch(49.286% 0.15300 33.522)",
+          "oklch(60.714% 0.15300 33.522)",
+          "oklch(72.143% 0.15300 33.522)",
+          "oklch(83.571% 0.15300 33.522)",
+          "oklch(95.000% 0.15300 33.522)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Hero Display",
+        "purpose": "Condensed hero heading; responsive fluid sizing is recorded in DESIGN.md."
+      },
+      "headline": {
+        "displayName": "Catalog Headline",
+        "purpose": "Condensed section hierarchy."
+      },
+      "title": {
+        "displayName": "Casting Title",
+        "purpose": "Product-card names; narrows at responsive breakpoints."
+      },
+      "inspection-title": {
+        "displayName": "Inspection Title",
+        "purpose": "Foreground product identity in the modal."
+      },
+      "body": {
+        "displayName": "Description Body",
+        "purpose": "Product-detail description, not a universal page-size assertion."
+      },
+      "hero-body": {
+        "displayName": "Hero Body",
+        "purpose": "Introductory copy against graphite."
+      },
+      "label-action": {
+        "displayName": "Action Label",
+        "purpose": "Primary and secondary button labels."
+      },
+      "label-filter": {
+        "displayName": "Collection Label",
+        "purpose": "Collection-filter buttons."
+      },
+      "label-nav": {
+        "displayName": "Navigation Label",
+        "purpose": "Desktop main navigation."
+      },
+      "label-metadata": {
+        "displayName": "Category Metadata",
+        "purpose": "Small category label; current prototype readability debt remains."
+      },
+      "price": {
+        "displayName": "Card Price",
+        "purpose": "BDT card pricing with tabular numerals in source CSS."
+      }
+    },
+    "shadows": [
+      {
+        "name": "cart-drawer",
+        "value": "-10px 0 50px #07150730",
+        "purpose": "Lateral separation of the cart workbench."
+      },
+      {
+        "name": "toast",
+        "value": "0 7px 25px #1118",
+        "purpose": "Transient confirmation elevation."
+      }
+    ],
+    "motion": [
+      {
+        "name": "action-transition",
+        "value": "background .18s, transform .18s",
+        "purpose": "Primary/secondary control state transition; disabled under reduced motion."
+      },
+      {
+        "name": "dialog-entrance",
+        "value": ".25s cubic-bezier(.2,.7,.2,1)",
+        "purpose": "Native modal entrance: opacity and translateY(15px) settle."
+      },
+      {
+        "name": "underline-transition",
+        "value": "transform .2s",
+        "purpose": "Navigation hover underline."
+      },
+      {
+        "name": "car-drive-duration",
+        "value": "1700ms",
+        "purpose": "Nominal selected-body/color Three.js route; bypassed by reduced motion."
+      },
+      {
+        "name": "car-drive-ease",
+        "value": "1 - (1 - t)^2",
+        "purpose": "Implemented positional easing for normalized drive progress."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide-stage-min",
+        "value": "1600px"
+      },
+      {
+        "name": "compact-desktop-max",
+        "value": "1150px"
+      },
+      {
+        "name": "stacked-max",
+        "value": "800px"
+      },
+      {
+        "name": "narrow-phone-max",
+        "value": "480px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Action",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Orange shopping/add action; artwork-to-cart behavior remains in the app.",
+      "html": "<button class=\"ds-primary\">Shop the garage <svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.65\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 7h10v10\"/><path d=\"M7 17 17 7\"/></svg></button>",
+      "css": ".ds-primary{display:inline-flex;align-items:center;justify-content:center;gap:24px;padding:17px 24px;font-family:var(--body,'Barlow',sans-serif);font-weight:600;font-size:15px;min-height:52px;border:0;border-radius:3px;cursor:pointer;white-space:nowrap;transition:background .18s,transform .18s;background:var(--orange,#f36b28);color:#1c241f;} .ds-primary svg{flex-shrink:0;} .ds-primary:hover{background:#ff8a43;transform:translateY(-2px);} .ds-primary:focus-visible{outline:3px solid var(--orange,#f36b28);outline-offset:5px;} .ds-primary:disabled{cursor:not-allowed;opacity:.5;} @media(prefers-reduced-motion:reduce){.ds-primary{transition:none;}}"
+    },
+    {
+      "name": "Secondary Action",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Quiet alternate action for restoring or returning to the inventory.",
+      "html": "<button class=\"ds-secondary\">Browse all castings</button>",
+      "css": ".ds-secondary{display:inline-flex;align-items:center;justify-content:center;gap:24px;padding:17px 24px;font-family:var(--body,'Barlow',sans-serif);font-weight:600;font-size:15px;min-height:52px;border:0;border-radius:3px;cursor:pointer;white-space:nowrap;transition:background .18s,transform .18s;background:#e4e7de;color:var(--ink,#222824);} .ds-secondary:hover{background:#d0d6ca;} .ds-secondary:focus-visible{outline:3px solid var(--orange,#f36b28);outline-offset:5px;} .ds-secondary:disabled{cursor:not-allowed;opacity:.5;} @media(prefers-reduced-motion:reduce){.ds-secondary{transition:none;}}"
+    },
+    {
+      "name": "Inspection Close",
+      "kind": "button",
+      "refersTo": "button-close",
+      "description": "44px circular dismissal control; sticky placement is supplied by the app modal wrapper.",
+      "html": "<button class=\"ds-close\" aria-label=\"Close car details\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.65\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M18 6 6 18\"/><path d=\"m6 6 12 12\"/></svg></button>",
+      "css": ".ds-close{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;flex-shrink:0;border:0;border-radius:50%;background:#f4f6ed;color:var(--ink,#222824);cursor:pointer;transition:background .2s;} .ds-close:hover{background:#dce0d6;} .ds-close:focus-visible{outline:3px solid var(--orange,#f36b28);outline-offset:5px;} @media(prefers-reduced-motion:reduce){.ds-close{transition:none;}}"
+    },
+    {
+      "name": "Labeled Text Field",
+      "kind": "input",
+      "refersTo": "input-text",
+      "description": "Checkout/owner text field with the implemented label, placeholder and focus treatment.",
+      "html": "<label class=\"ds-field\">Your name<input class=\"ds-field-input\" type=\"text\" autocomplete=\"name\" placeholder=\"Full name\" required minlength=\"2\" maxlength=\"100\"></label>",
+      "css": ".ds-field{display:flex;flex-direction:column;gap:8px;margin-top:21px;font-family:var(--body,'Barlow',sans-serif);font-size:12px;font-weight:500;color:var(--ink,#222824);} .ds-field-input{width:100%;background:#fdfef8;border:1px solid #c8d0bc;border-radius:3px;padding:12px 13px;color:var(--ink,#222824);font-family:var(--body,'Barlow',sans-serif);font-size:14px;caret-color:var(--orange,#f36b28);} .ds-field-input::placeholder{color:#6d7762;opacity:1;} .ds-field-input:focus{outline:2px solid var(--orange,#f36b28);outline-offset:1px;}"
+    },
+    {
+      "name": "Casting Search",
+      "kind": "input",
+      "refersTo": "input-search",
+      "description": "Compact icon-and-input enclosure from the catalog toolbar.",
+      "html": "<label class=\"ds-search\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.65\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"11\" cy=\"11\" r=\"8\"/><path d=\"m21 21-4.3-4.3\"/></svg><input class=\"ds-search-input\" type=\"search\" placeholder=\"Find your casting\" aria-label=\"Search castings\"></label>",
+      "css": ".ds-search{display:flex;align-items:center;border:1px solid #d0d4c7;border-radius:3px;padding:0 11px;gap:8px;width:175px;color:var(--ink,#222824);} .ds-search svg{width:15px;flex-shrink:0;color:#6d7864;} .ds-search-input{width:100%;min-width:0;border:0;background:transparent;padding:10px 0;font-family:var(--body,'Barlow',sans-serif);font-size:12px;color:var(--ink,#222824);caret-color:var(--orange,#f36b28);} .ds-search:focus-within{outline:2px solid var(--orange,#f36b28);} .ds-search-input:focus{outline:0;} @media(max-width:800px){.ds-search{width:auto;flex:1;}} @media(max-width:480px){.ds-search-input{font-size:11px;}}"
+    },
+    {
+      "name": "Main Navigation",
+      "kind": "nav",
+      "refersTo": "nav-main",
+      "description": "Paper-header link row with orange hover underline and implemented mobile visibility.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Main navigation\"><a class=\"ds-nav-link\" href=\"#garage\">The garage</a><a class=\"ds-nav-link ds-nav-collector\" href=\"#collector\">Collector notes</a><button class=\"ds-nav-track\" type=\"button\">Track order</button></nav>",
+      "css": ".ds-nav{display:flex;gap:30px;font-family:var(--body,'Barlow',sans-serif);font-size:14px;font-weight:500;color:var(--ink,#222824);} .ds-nav-link,.ds-nav-track{position:relative;color:inherit;text-decoration:none;} .ds-nav-track{border:0;padding:0;background:none;font:inherit;cursor:pointer;} .ds-nav-link::after,.ds-nav-track::after{content:\"\";position:absolute;bottom:-7px;left:0;width:100%;height:1px;background:var(--orange,#f36b28);transform:scaleX(0);transform-origin:left;transition:transform .2s;} .ds-nav-link:hover::after,.ds-nav-track:hover::after{transform:scaleX(1);} .ds-nav-link:focus-visible,.ds-nav-track:focus-visible{outline:3px solid var(--orange,#f36b28);outline-offset:5px;} @media(max-width:800px){.ds-nav{gap:15px;font-size:12px;} .ds-nav-collector{display:none;}} @media(max-width:480px){.ds-nav-link{display:none;} .ds-nav-track{font-size:11px;}} @media(prefers-reduced-motion:reduce){.ds-nav-link::after,.ds-nav-track::after{transition:none;}}"
+    },
+    {
+      "name": "Collection Filter",
+      "kind": "chip",
+      "refersTo": "chip-filter",
+      "description": "Unselected and active collection-filter states, without commerce behavior.",
+      "html": "<div class=\"ds-filters\" role=\"group\" aria-label=\"Filter cars by collection\"><button class=\"ds-filter ds-filter-active\">All castings</button><button class=\"ds-filter\">JDM legends</button><button class=\"ds-filter\">Euro garage</button></div>",
+      "css": ".ds-filters{display:flex;gap:7px;flex-wrap:wrap;} .ds-filter{border:0;border-radius:3px;background:transparent;color:var(--ink,#222824);font-family:var(--body,'Barlow',sans-serif);font-size:12px;font-weight:500;padding:10px 12px;cursor:pointer;transition:background .2s;} .ds-filter-active{background:var(--ink,#222824);color:#f5f6ed;} .ds-filter:not(.ds-filter-active):hover{background:#e5e8dc;} .ds-filter:focus-visible{outline:3px solid var(--orange,#f36b28);outline-offset:5px;} @media(max-width:800px){.ds-filters{flex-wrap:nowrap;overflow:auto;gap:5px;scrollbar-width:none;} .ds-filter{white-space:nowrap;font-size:11px;padding:10px;}} @media(prefers-reduced-motion:reduce){.ds-filter{transition:none;}}"
+    },
+    {
+      "name": "Inventory Metadata Card",
+      "kind": "card",
+      "refersTo": "card-inventory",
+      "description": "Metadata beneath the generated thumbnail; 3D merchandise art is supplied by the app, not fabricated in this snippet.",
+      "html": "<article class=\"ds-card\"><div class=\"ds-card-info\"><span class=\"ds-card-category\">European <span class=\"ds-card-scale\">1:64 SCALE</span></span><button class=\"ds-card-title\">Porsche 911 GT3</button><div class=\"ds-card-buy\"><div class=\"ds-card-price\">৳ 410<small class=\"ds-card-demo\">Demo inventory</small></div><button class=\"ds-card-add\" aria-label=\"Add Porsche 911 GT3 to cart\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.65\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14\"/><path d=\"M12 5v14\"/></svg><span class=\"ds-card-add-label\">Add to garage</span></button></div></div></article>",
+      "css": ".ds-card{min-width:0;border-bottom:1px solid #cdd2c3;color:var(--ink,#222824);font-family:var(--body,'Barlow',sans-serif);} .ds-card-info{padding:20px 3px 19px;} .ds-card-category{display:flex;justify-content:space-between;color:#636d5b;font-size:10px;letter-spacing:.06em;font-weight:500;} .ds-card-scale{color:#737b68;} .ds-card-title{background:none;border:0;font-family:var(--display,'Barlow Condensed',sans-serif);font-weight:600;font-size:25px;padding:0;margin-top:8px;display:block;text-align:left;line-height:1.15;color:inherit;cursor:pointer;} .ds-card-buy{display:flex;justify-content:space-between;align-items:flex-end;margin-top:20px;gap:10px;} .ds-card-price{font-size:20px;font-weight:600;font-variant-numeric:tabular-nums;} .ds-card-demo{display:block;font-size:10px;font-weight:400;color:#6d7864;margin-top:5px;} .ds-card-add{border:0;background:var(--orange,#f36b28);color:inherit;border-radius:3px;height:36px;display:flex;gap:8px;padding:0 12px;align-items:center;font-size:11px;font-weight:600;font-family:inherit;cursor:pointer;transition:background .2s;} .ds-card-add svg{width:14px;height:14px;flex-shrink:0;} .ds-card-add:hover{background:#ff8a43;} .ds-card-add:focus-visible,.ds-card-title:focus-visible{outline:3px solid var(--orange,#f36b28);outline-offset:5px;} .ds-card-add:disabled{cursor:not-allowed;opacity:.5;} @media(max-width:1150px){.ds-card-title{font-size:23px;} .ds-card-add-label{display:none;} .ds-card-add{width:36px;justify-content:center;padding:0;}} @media(max-width:800px){.ds-card-info{padding-top:17px;} .ds-card-category{font-size:9px;} .ds-card-scale{font-size:8px;}} @media(max-width:480px){.ds-card-info{padding:15px 1px;} .ds-card-title{font-size:22px;min-height:50px;} .ds-card-price{font-size:18px;} .ds-card-demo{font-size:9px;} .ds-card-buy{margin-top:14px;} .ds-card-scale{display:none;}} @media(prefers-reduced-motion:reduce){.ds-card-add{transition:none;}}"
+    },
+    {
+      "name": "Order Reference Bench",
+      "kind": "custom",
+      "refersTo": "order-reference",
+      "description": "Pale identifier panel from the saved local-order confirmation; sample identifier is not an order record.",
+      "html": "<div class=\"ds-reference\"><span class=\"ds-reference-label\">ORDER REFERENCE</span><strong class=\"ds-reference-value\">Local demo reference</strong><button class=\"ds-reference-copy\" type=\"button\">Copy reference</button></div>",
+      "css": ".ds-reference{background:#e2e8d7;padding:20px;margin:23px 0;color:var(--ink,#222824);font-family:var(--body,'Barlow',sans-serif);} .ds-reference-label{font-size:9px;color:#596b49;letter-spacing:.07em;} .ds-reference-value{display:block;font-size:16px;overflow-wrap:anywhere;margin:9px 0;} .ds-reference-copy{border:0;background:none;display:inline-flex;align-items:center;gap:8px;padding:6px 0;font-size:12px;font-family:inherit;font-weight:500;color:var(--ink,#222824);cursor:pointer;} .ds-reference-copy:hover{color:var(--orange-dark,#a53b0a);} .ds-reference-copy:focus-visible{outline:3px solid var(--orange,#f36b28);outline-offset:5px;}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Studio Garage Workbench",
+    "overview": "The implemented world is a collector's garage rather than a toy-store banner. Graphite display stages and directional studio lighting give the dimensional cars room to lead; a pale inventory bench makes the catalog, prices and buying controls easy to scan. Racing orange connects the track, selected emphasis and primary actions. Condensed motorsport lettering and thin mechanical icons provide the recognizable voice.\n\nThe contrast between cinematic display and practical bench is deliberate. Merchandise details and owner tasks remain matter-of-fact, while inspection and car-to-cart motion carry the collector experience. The procedural cars, demo inventory and planning prices stay visibly qualified; realism of presentation must never imply authenticated stock or product photography.",
+    "keyCharacteristics": [
+      "Graphite stages paired with a pale, lightly ruled inventory bench.",
+      "Racing-orange actions and track geometry, not a multicolor brand palette.",
+      "Self-hosted condensed display type, plain body type and consistent mechanical line icons.",
+      "Dimensional merchandise inspection with honest illustrative/demo labels."
+    ],
+    "rules": [
+      {
+        "name": "The Track-to-Action Rule",
+        "body": "Preserve the shared orange identity between the track and primary actions; do not introduce a competing brand accent.",
+        "section": "colors"
+      },
+      {
+        "name": "The Two-Family Rule",
+        "body": "Use Barlow Condensed for display and casting titles, and Barlow for copy, controls and data.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat Bench Rule",
+        "body": "Keep inventory cards flat and rule-separated; reserve UI shadows for the drawer and transient feedback.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do preserve the graphite stage, racing-orange action family and pale inventory bench.",
+      "Do pair Barlow Condensed casting titles with Barlow copy and consistent Lucide line icons.",
+      "Do keep illustrative assets, demo inventory, planning prices and local-only orders visibly qualified.",
+      "Do keep modal controls reachable after scroll and honor the reduced-motion cart path."
+    ],
+    "donts": [
+      "Don't replace the collector-garage direction with a toy-store banner or a competing multicolor identity.",
+      "Don't present procedural silhouettes as authenticated product photography or exact replicas.",
+      "Don't add fabricated testimonials, ratings, discount claims, market values or scarcity.",
+      "Don't confuse documented prototype styling with full accessibility certification or live-sales readiness."
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+server/data/
+tests/tmp/
+qa/
+*.sqlite
+*.sqlite-*
+*.db
+*.log
+release/
+.DS_Store
+Thumbs.db
